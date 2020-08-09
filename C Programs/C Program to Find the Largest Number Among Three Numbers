@@ -1,7 +1,8 @@
 Example 1: Using if Statement
 
 #include <stdio.h>
-int main() {
+int main() 
+{
     double n1, n2, n3;
     printf("Enter three different numbers: ");
     scanf("%lf %lf %lf", &n1, &n2, &n3);
