@@ -23,6 +23,10 @@ int main()
 }
 
 
+
+
+
+
 Example 2: Using if...else Ladder
 
 #include <stdio.h>
@@ -49,7 +53,10 @@ int main()
 
 
 
+
+
 Example 3: Using Nested if...else
+
 #include <stdio.h>
 int main() 
 {
