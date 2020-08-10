@@ -24,6 +24,7 @@ int main()
 
 
 Example 2: Using if...else Ladder
+
 #include <stdio.h>
 int main() 
 {
