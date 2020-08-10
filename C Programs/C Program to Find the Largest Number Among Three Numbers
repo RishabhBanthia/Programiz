@@ -50,17 +50,21 @@ int main()
 
 Example 3: Using Nested if...else
 #include <stdio.h>
-int main() {
+int main() 
+{
     double n1, n2, n3;
     printf("Enter three numbers: ");
     scanf("%lf %lf %lf", &n1, &n2, &n3);
 
-    if (n1 >= n2) {
+    if (n1 >= n2) 
+    {
         if (n1 >= n3)
             printf("%.2lf is the largest number.", n1);
         else
             printf("%.2lf is the largest number.", n3);
-    } else {
+    } 
+    else 
+    {
         if (n2 >= n3)
             printf("%.2lf is the largest number.", n2);
         else
