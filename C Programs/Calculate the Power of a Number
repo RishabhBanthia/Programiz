@@ -25,10 +25,12 @@ int main()
 
 
 Power Using pow() Function
+
 #include <math.h>
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     double base, exp, result;
     printf("Enter a base number: ");
     scanf("%lf", &base);
