@@ -31,10 +31,12 @@ int main()
 
 
 Check Armstrong Number of n digits
+
 #include <math.h>
 #include <stdio.h>
 
-int main() {
+int main() 
+{
    int num, originalNum, remainder, n = 0;
    float result = 0.0;
 
@@ -44,11 +46,13 @@ int main() {
    originalNum = num;
 
    // store the number of digits of num in n
-   for (originalNum = num; originalNum != 0; ++n) {
+   for (originalNum = num; originalNum != 0; ++n) 
+   {
        originalNum /= 10;
    }
 
-   for (originalNum = num; originalNum != 0; originalNum /= 10) {
+   for (originalNum = num; originalNum != 0; originalNum /= 10) 
+   {
        remainder = originalNum % 10;
 
       // store the sum of the power of individual digits in result
