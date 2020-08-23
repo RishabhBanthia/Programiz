@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+int main() 
+{
     char operator;
     double first, second;
     printf("Enter an operator (+, -, *,): ");
@@ -7,7 +8,8 @@ int main() {
     printf("Enter two operands: ");
     scanf("%lf %lf", &first, &second);
 
-    switch (operator) {
+    switch (operator) 
+    {
     case '+':
         printf("%.1lf + %.1lf = %.1lf", first, second, first + second);
         break;
