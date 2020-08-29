@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void enterData(int firstMatrix[][10], int secondMatrix[][10], int rowFirst, int columnFirst, int rowSecond, int columnSecond);
 void multiplyMatrices(int firstMatrix[][10], int secondMatrix[][10], int multResult[][10], int rowFirst, int columnFirst, int rowSecond, int columnSecond);
 void display(int mult[][10], int rowFirst, int columnSecond);
@@ -59,7 +58,6 @@ void enterData(int firstMatrix[][10], int secondMatrix[][10], int rowFirst, int 
 		}
 	}
 }
-
 void multiplyMatrices(int firstMatrix[][10], int secondMatrix[][10], int mult[][10], int rowFirst, int columnFirst, int rowSecond, int columnSecond)
 {
 	int i, j, k;
@@ -72,7 +70,6 @@ void multiplyMatrices(int firstMatrix[][10], int secondMatrix[][10], int mult[][
 			mult[i][j] = 0;
 		}
 	}
-
 	// Multiplying matrix firstMatrix and secondMatrix and storing in array mult.
 	for(i = 0; i < rowFirst; ++i)
 	{
