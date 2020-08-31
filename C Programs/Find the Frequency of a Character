@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+int main() 
+{
     char str[1000], ch;
     int count = 0;
 
@@ -9,7 +10,8 @@ int main() {
     printf("Enter a character to find its frequency: ");
     scanf("%c", &ch);
 
-    for (int i = 0; str[i] != '\0'; ++i) {
+    for (int i = 0; str[i] != '\0'; ++i) 
+    {
         if (ch == str[i])
             ++count;
     }
