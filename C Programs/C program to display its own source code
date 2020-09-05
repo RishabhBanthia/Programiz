@@ -1,12 +1,14 @@
 #include <stdio.h>
-int main() {
+int main() 
+{
     FILE *fp;
     int c;
    
     // open the current input file
     fp = fopen(__FILE__,"r");
 
-    do {
+    do 
+    {
          c = getc(fp);   // read character 
          putchar(c);     // display character
     }
