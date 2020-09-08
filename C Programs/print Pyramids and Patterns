@@ -93,7 +93,6 @@ Example 4: Inverted full pyramid of *
     * * * * *
       * * *
         *
-C Program
 
 #include <stdio.h>
 int main() 
