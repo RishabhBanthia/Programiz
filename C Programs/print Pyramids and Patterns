@@ -151,13 +151,12 @@ int main()
 
 
 
-Example 2: Half Pyramid of Numbers
+Example 6: Half Pyramid of Numbers
 1
 1 2
 1 2 3
 1 2 3 4
 1 2 3 4 5
-C Program
 
 #include <stdio.h>
 int main() {
