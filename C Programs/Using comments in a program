@@ -1,0 +1,10 @@
+#include <stdio.h>
+ 
+int main()
+{
+ 
+   printf("Writing comments is very useful.\n");
+   printf("Good luck C programmer.\n");
+ 
+   return 0;
+}
