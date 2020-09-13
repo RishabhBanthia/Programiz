@@ -44,3 +44,12 @@ int main()
 
    return 0;
 }
+
+
+
+
+Output
+
+Enter two numbers(intervals): 200
+2000
+Armstrong numbers between 200 and 2000 are: 370 371 407 1634 
