@@ -22,6 +22,14 @@ int main()
 
 
 
+Output
+
+Enter a base number: 3
+Enter an exponent: 4
+Answer = 81
+
+
+
 
 
 Power Using pow() Function
