@@ -27,6 +27,10 @@ int main()
     return 0;
 }
 
+Output
+
+Enter a three-digit integer: 371
+371 is an Armstrong number.
 
 
 
