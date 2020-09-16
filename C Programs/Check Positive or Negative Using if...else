@@ -14,3 +14,11 @@ int main()
         printf("You entered a positive number.");
     return 0;
 }
+
+
+
+
+Output 
+
+Enter a number: 12.3
+You entered a positive number.
