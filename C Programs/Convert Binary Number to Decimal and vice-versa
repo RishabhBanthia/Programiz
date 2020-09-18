@@ -26,6 +26,12 @@ int convert(long long n)
 }
 
 
+Output
+
+Enter a binary number: 110110111
+110110111 in binary = 439
+
+
 
 
 Program to convert decimal to binary
