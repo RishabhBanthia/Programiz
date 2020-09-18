@@ -62,3 +62,14 @@ long long convert(int n)
     }
     return bin;
 }
+
+
+Output
+
+Enter a decimal number: 19
+Step 1: 19/2, Remainder = 1, Quotient = 9
+Step 2: 9/2, Remainder = 1, Quotient = 4
+Step 3: 4/2, Remainder = 0, Quotient = 2
+Step 4: 2/2, Remainder = 0, Quotient = 1
+Step 5: 1/2, Remainder = 1, Quotient = 0
+19 in decimal = 10011 in binary
