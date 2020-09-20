@@ -70,3 +70,9 @@ long long convertOctalToDecimal(int octalNumber)
 
     return decimalNumber;
 }
+
+
+Output
+
+Enter an octal number: 116
+116 in octal = 78 in decimal
