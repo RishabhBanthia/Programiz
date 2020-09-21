@@ -27,3 +27,19 @@ int main()
 
     return 0;
 }
+
+
+Output
+
+Enter the number of records: 2
+Enter the name of the subject and marks respectively:
+Programming
+22
+Enter the name of the subject and marks respectively:
+Structure
+33
+
+Displaying Information:
+Programming      22
+Structure        33
+
