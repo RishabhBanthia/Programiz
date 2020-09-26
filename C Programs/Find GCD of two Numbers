@@ -46,6 +46,14 @@ int main()
 }
 
 
+Output
+
+Enter two positive integers: 81
+153
+GCD = 9
+
+
+
 
 Example 3: GCD for both positive and negative numbers
 
