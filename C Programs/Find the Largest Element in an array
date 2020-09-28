@@ -23,3 +23,14 @@ int main()
 
     return 0;
 }
+
+
+Output
+
+Enter the number of elements (1 to 100): 5
+Enter number1: 34.5
+Enter number2: 2.4
+Enter number3: -35.5
+Enter number4: 38.7
+Enter number5: 24.5
+Largest element = 38.70
