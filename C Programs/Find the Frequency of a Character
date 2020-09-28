@@ -19,3 +19,10 @@ int main()
     printf("Frequency of %c = %d", ch, count);
     return 0;
 }
+
+
+Output
+
+Enter a string: This website is awesome.
+Enter a character to find its frequency: e
+Frequency of e = 4
