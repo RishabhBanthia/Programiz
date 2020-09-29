@@ -16,3 +16,10 @@ int hcf(int n1, int n2)
     else
         return n1;
 }
+
+
+Output
+
+Enter two positive integers: 366
+60
+G.C.D of 366 and 60 is 6.
