@@ -54,3 +54,10 @@ int main()
     printf("The LCM of two numbers %d and %d is %d.", n1, n2, lcm);
     return 0;
 }
+
+
+Output
+
+Enter two positive integers: 72
+120
+The LCM of two numbers 72 and 120 is 360.
