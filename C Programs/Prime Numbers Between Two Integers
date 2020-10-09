@@ -32,3 +32,10 @@ int checkPrimeNumber(int n)
     }
     return flag;
 }
+
+
+Output
+
+Enter two positive integers: 12
+30
+Prime numbers between 12 and 30 are: 13 17 19 23 29
