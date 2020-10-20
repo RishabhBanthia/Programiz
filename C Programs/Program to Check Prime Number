@@ -30,3 +30,9 @@ int main()
 
     return 0;
 }
+
+
+Output
+
+Enter a positive integer: 29
+29 is a prime number.
