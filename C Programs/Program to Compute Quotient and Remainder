@@ -17,3 +17,11 @@ int main()
     printf("Remainder = %d", remainder);
     return 0;
 }
+
+
+Output
+
+Enter dividend: 25
+Enter divisor: 4
+Quotient = 6
+Remainder = 1
