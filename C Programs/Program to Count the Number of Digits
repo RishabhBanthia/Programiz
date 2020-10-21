@@ -17,3 +17,9 @@ int main()
 
     printf("Number of digits: %d", count);
 }
+
+
+Output
+
+Enter an integer: 3452
+Number of digits: 4
