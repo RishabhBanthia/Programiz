@@ -19,3 +19,9 @@ int main()
         printf("%c is a consonant.", c);
     return 0;
 }
+
+
+Output
+
+Enter an alphabet: G
+G is a consonant.
