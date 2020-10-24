@@ -13,3 +13,10 @@ int main()
     
     return 0;
 }
+
+
+Output
+
+Enter two numbers: 2.4
+1.12
+Product = 2.69
