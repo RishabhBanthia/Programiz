@@ -27,3 +27,18 @@ void cyclicSwap(int *n1, int *n2, int *n3)
     *n1 = *n3;
     *n3 = temp;
 }
+
+
+Output
+
+Enter a, b and c respectively: 1
+2
+3
+Value before swapping:
+a = 1 
+b = 2 
+c = 3
+Value after swapping:
+a = 3 
+b = 1 
+c = 2
