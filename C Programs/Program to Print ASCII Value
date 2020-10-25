@@ -11,3 +11,9 @@ int main()
     
     return 0;
 }
+
+
+Output
+
+Enter a character: G
+ASCII value of G = 71
