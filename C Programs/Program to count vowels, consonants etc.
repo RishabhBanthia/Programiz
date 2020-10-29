@@ -37,3 +37,12 @@ int main()
     printf("\nWhite spaces: %d", space);
     return 0;
 }
+
+
+Output
+
+Enter a line of string: adfslkj34 34lkj343 34lk
+Vowels: 1
+Consonants: 11
+Digits: 9
+White spaces: 2
