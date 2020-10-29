@@ -17,3 +17,9 @@ void reverseSentence()
         printf("%c", c);
     }
 }
+
+
+Output
+
+Enter a sentence: margorp emosewa
+awesome program
