@@ -27,3 +27,9 @@ int main()
    puts(line);
    return 0;
 }
+
+
+Output
+
+Enter a string: p2'r-o@gram84iz./
+Output String: programiz
