@@ -35,3 +35,19 @@ int main()
    }
    return 0;
 }
+
+
+Output
+
+Enter 5 words: R programming
+JavaScript
+Java
+C programming
+C++ programming
+
+In the lexicographical order:
+C programming
+C++ programming
+Java
+JavaScript
+R programming
