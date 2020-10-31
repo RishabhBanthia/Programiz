@@ -34,3 +34,24 @@ int main()
     }
     return 0;
 }
+
+
+Output
+
+Enter information of students: 
+
+For roll number1,
+Enter name: Tom
+Enter marks: 98
+
+For roll number2,
+Enter name: Jerry
+Enter marks: 89
+.
+.
+.
+Displaying Information:
+
+Roll number: 1
+Name: Tom
+Marks: 98
