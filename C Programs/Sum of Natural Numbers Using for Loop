@@ -14,3 +14,9 @@ int main()
     printf("Sum = %d", sum);
     return 0;
 }
+
+
+Output
+
+Enter a positive integer: 100
+Sum = 5050
