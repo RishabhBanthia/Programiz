@@ -22,3 +22,10 @@ int main()
     fclose(fptr);
     return 0;
 }
+
+
+Output
+
+Enter a sentence: C Programming is fun
+
+Here, a file named program.txt is created. The file will contain C programming is fun text.
